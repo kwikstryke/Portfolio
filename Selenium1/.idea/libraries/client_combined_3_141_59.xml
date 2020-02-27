@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Selenium/client-combined-3.141.59.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Selenium/libs" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/apache-jmeter-3.2/docs/api" />
+      <root url="file://$USER_HOME$/Desktop/apache-jmeter-5.2/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Selenium/client-combined-3.141.59-sources.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/test-gda-15-project-automation/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/test-gda-15-project-automation/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Selenium/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" type="SOURCES" />
+  </library>
+</component>
